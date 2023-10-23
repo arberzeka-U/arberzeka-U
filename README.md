@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on some social projects
 - 🌱 I’m currently learning ASP.NET core w/ react and blazor
 - 💬 Ask me about .NET platform
-- 📫 How to reach me: az51866@gmail.com
+- 📫 How to reach me: az51866@ubt-uni.net
 -->
